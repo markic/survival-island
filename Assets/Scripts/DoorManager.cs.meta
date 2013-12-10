@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: acaba80f5a406e54184be3f5c48b4b19
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - doorOpenSound: {fileID: 8300000, guid: 0b5cb7471b5c04d53ad9211a037a15bd, type: 3}
+  - doorCloseSound: {fileID: 8300000, guid: 1c882c9bd2dd74915bcdcd1859c40a19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
