@@ -13,6 +13,8 @@ All game assets are available for free here. That includes source, models, textu
 
 Playable versions for windows x86 and unity web player are available in folder builds.
 
+Play online: http://markic.github.io/survival-island/
+
 Author: Marin Markic, student at School of Electrical Engineering, University of Belgrade.
 
 
