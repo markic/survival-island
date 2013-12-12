@@ -9,9 +9,9 @@ Game was developed in C# using unity game engine.
 
 Unity reference: http://unity3d.com/
 
-All game assets are available for free here. That includes source, models, textures, sounds and animations.
+Game assets include code source, models, textures, sounds and animations.
 
-Playable versions for windows x86 and unity web player are available in folder builds.
+Playable versions for windows x86 is available in folder builds.
 
 Play online: http://markic.github.io/survival-island/
 
