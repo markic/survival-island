@@ -9,7 +9,7 @@ Game was developed in C# using unity game engine.
 
 Unity reference: http://unity3d.com/
 
-Game assets include code source, models, textures, sounds and animations.
+Game assets include source code, models, textures, sounds and animations.
 
 Playable versions for windows x86 is available in folder builds.
 
